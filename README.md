@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, I'm matt. I am a full-stack web developer student who loves problem-solving.
+Hi, I'm Matt. I am a full-stack web developer student who loves problem-solving.
 
 - 🔭 I’m currently a student at hyperiondev
 - 🌱 I’m currently learning react and the mern stack
