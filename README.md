@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+Hi, I'm matt. I am a full-stack web developer student who loves problem-solving.
+
+- 🔭 I’m currently a student at hyperiondev
+- 🌱 I’m currently learning react and the mern stack
+- 💬 I post projects on my Github to try and show my skills as a developer. Feel free to ask me anything about them or me. 
+- 📫 How to reach me: you can contact me on my [Linkedin](https://www.linkedin.com/in/matthew-gritt-b31434212/)
+- 📝 [Portfolio](https://matt-portfolio.vercel.app/)
+- ⚡ Check out my recent [Project](https://github.com/MatthewGritt/finalCapstone)
+
 <!--
 **MatthewGritt/MatthewGritt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
