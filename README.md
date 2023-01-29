@@ -7,7 +7,7 @@ Hi, I'm Matt. I am a full-stack web developer student who loves problem-solving.
 - 💬 I post projects on my Github to try and show my skills as a developer. Feel free to ask me anything about them or me. 
 - 📫 How to reach me: you can contact me on my [Linkedin](https://www.linkedin.com/in/matthew-gritt-b31434212/).
 - 📝 [Portfolio](https://matt-portfolio.vercel.app/).
-- ⚡ Check out my recent [Project](https://github.com/MatthewGritt/finalCapstone).
+- ⚡ Check out my recent [Project](https://github.com/MatthewGritt/hangman).
 
 <!--
 **MatthewGritt/MatthewGritt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
