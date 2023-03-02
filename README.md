@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-Hi, I'm Matt. I am a full-stack web developer student who loves problem-solving.
+Hi there! I'm Matt, a self-motivated full-stack web developer with a passion for problem-solving and creating engaging web experiences.
 
-- 🔭 I’m currently a student at hyperiondev.
-- 🌱 I’m currently learning react and the mern stack.
-- 💬 I post projects on my Github to try and show my skills as a developer. Feel free to ask me anything about them or me. 
+- 🔭 Currently enrolled in a full-time web development program at HyperionDev.
+- 🌱 I'm currently sharpening my skills in React and the MERN stack, with a focus on building responsive and user-friendly web applications.
+- 💬 I share my projects on GitHub as a way to showcase my skills as a developer. Please feel free to ask me any questions you may have about them or about me. 
 - 📫 How to reach me: you can contact me on my [Linkedin](https://www.linkedin.com/in/matthew-gritt-b31434212/).
 - 📝 [Portfolio](https://matt-portfolio.vercel.app/).
 - ⚡ Check out my recent [Project](https://github.com/MatthewGritt/hangman).
