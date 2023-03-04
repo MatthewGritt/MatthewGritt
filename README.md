@@ -2,7 +2,6 @@
 
 Hi there! I'm Matt, a self-motivated full-stack web developer with a passion for problem-solving and creating engaging web experiences.
 
-- 🔭 Currently enrolled in a full-time web development program at HyperionDev.
 - 🌱 I'm currently sharpening my skills in React and the MERN stack, with a focus on building responsive and user-friendly web applications.
 - 💬 I share my projects on GitHub as a way to showcase my skills as a developer. Please feel free to ask me any questions you may have about them or about me. 
 - 📫 How to reach me: you can contact me on my [Linkedin](https://www.linkedin.com/in/matthew-gritt-b31434212/).
